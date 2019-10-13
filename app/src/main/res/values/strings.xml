@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Image_opener</string>
+    <string name="btn">Button</string>
+    <string name="desc">images will be changed</string>
+</resources>
